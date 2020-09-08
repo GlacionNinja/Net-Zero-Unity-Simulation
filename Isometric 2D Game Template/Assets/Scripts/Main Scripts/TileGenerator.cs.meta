@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0b5ad73107f46434297f7a70987dd4f9
+timeCreated: 1472360251
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Tile: {fileID: 116958, guid: 905c8239db1dd5e428cb8e67289ed053, type: 2}
+  - TileParent: {instanceID: 0}
+  - SpaceTile1: {fileID: 194428, guid: 7379fd88556bea74287136af89500947, type: 2}
+  - SpaceTile2: {fileID: 114188, guid: 197ce1f63db866b469cbcdec9ccce999, type: 2}
+  - SpaceTile3: {fileID: 116958, guid: 905c8239db1dd5e428cb8e67289ed053, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
